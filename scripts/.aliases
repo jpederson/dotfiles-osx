@@ -1,0 +1,12 @@
+
+# Clean filenames
+alias cleanfilenames='~/scripts/clean-filenames.sh'
+
+# Brew up
+alias brewup='~/scripts/brewup.sh'
+
+# Install directory lister command
+alias install-lister='~/scripts/install-lister.sh'
+
+# Add a quick command to flush dns
+alias flushdns='~/scripts/flush-dns.sh'
