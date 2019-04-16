@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo 'Clearing dns cache...'
 sudo dscacheutil -flushcache
 
